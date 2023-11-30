@@ -1,4 +1,4 @@
-module github.com/mirkoboehm/shelldoc
+module github.com/DFlicki/shelldoc
 
 go 1.12
 

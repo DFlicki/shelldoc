@@ -7,7 +7,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/mirkoboehm/shelldoc/pkg/version"
+	"github.com/DFlicki/shelldoc/pkg/version"
 	"github.com/spf13/cobra"
 )
 

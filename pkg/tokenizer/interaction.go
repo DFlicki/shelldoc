@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mirkoboehm/shelldoc/pkg/shell"
+	"github.com/DFlicki/shelldoc/pkg/shell"
 )
 
 const (

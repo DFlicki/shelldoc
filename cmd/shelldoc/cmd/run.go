@@ -7,7 +7,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/mirkoboehm/shelldoc/pkg/run"
+	"github.com/DFlicki/shelldoc/pkg/run"
 	"github.com/spf13/cobra"
 )
 
